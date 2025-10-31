@@ -1,0 +1,5 @@
+flask
+fastapi
+uvicorn
+pydantic
+python-dotenv
